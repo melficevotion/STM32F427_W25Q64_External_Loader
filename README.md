@@ -1,0 +1,1 @@
+# STM32F427_W25Q64_External_Loader
